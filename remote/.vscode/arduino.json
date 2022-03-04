@@ -1,0 +1,5 @@
+{
+    "sketch": "remote.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}

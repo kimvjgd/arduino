@@ -18,6 +18,7 @@
             "includePath": [
                 "/Users/kimdonghyun/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
                 "/Users/kimdonghyun/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard",
+                "/Users/kimdonghyun/Documents/Arduino/libraries/Led",
                 "/Users/kimdonghyun/Applications/Arduino.app/Contents/Java/hardware/tools/avr/lib/gcc/avr/7.3.0/include",
                 "/Users/kimdonghyun/Applications/Arduino.app/Contents/Java/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed",
                 "/Users/kimdonghyun/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include"
